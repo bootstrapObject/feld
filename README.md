@@ -2,5 +2,5 @@
 
 效果如下:
 ![](images/img1.gif)
-fdsfadsf
+
 ![](images/img2.gif)
